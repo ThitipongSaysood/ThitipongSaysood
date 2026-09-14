@@ -102,19 +102,38 @@
 
 ## 📈 Development Metrics
 
-<p align="center">
-  <img
-    src="./metrics.svg"
-    alt="Thitipong Saysood Development Metrics"
-    width="100%"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>📅 Isometric Commit Calendar</h3>
+    </td>
+    <td width="50%" align="center">
+      <h3>🈷️ Languages Activity</h3>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <img
+        src="./metrics-calendar.svg"
+        alt="Isometric Commit Calendar"
+        width="100%"
+      />
+    </td>
+
+    <td width="50%" valign="top">
+      <img
+        src="./metrics-languages.svg"
+        alt="Languages Activity"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <i>Isometric commit calendar & programming language activity</i>
+  <i>My development activity & programming language statistics</i>
 </p>
-
----
 
 ## 🚀 GitHub Space Shooter
 
