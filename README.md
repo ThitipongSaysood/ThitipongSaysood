@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌍 Based in Bangkok, Thailand
 - 🖥️ Portfolio: http://support.nineplus.co.th/portfolio
@@ -24,74 +24,57 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=php,ts,python,js,git,vscode,html,react,nextjs,vue,css,tailwind,bootstrap,mysql,postgres,nodejs" />
-
-</p>
-
-### 🎨 Design & Creative Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
-
-</p>
-
-### 💻 Platforms
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=apple,ubuntu,linux,gcp" />
-
+  <img src="https://skillicons.dev/icons?i=php,ts,python,js,git,vscode,html,react,nextjs,vue,css,tailwind,bootstrap,mysql,postgres,nodejs" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🎨 Design & Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
+</p>
+
+---
+
+## 💻 Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,ubuntu,linux,gcp" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/ThitipongSaysood">
-  <img src="https://skillicons.dev/icons?i=github" height="42" />
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
 </a>
 
 <a href="https://gitlab.com/ThitipongSaysood">
-  <img src="https://skillicons.dev/icons?i=gitlab" height="42" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="42" alt="GitLab" />
 </a>
 
 <a href="https://discord.com/users/sangkazee_13423">
-  <img src="https://skillicons.dev/icons?i=discord" height="42" />
+  <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" />
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ThitipongSaysood&show_icons=true&theme=tokyonight&hide_border=true"
-  height="170"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThitipongSaysood&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  height="170"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ThitipongSaysood&theme=tokyonight&hide_border=true"
-/>
-
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ThitipongSaysood&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -112,16 +95,25 @@
 
 ---
 
-## 🏆 Top Repositories
+## 🧰 Main Skills
 
 <p align="center">
 
-<a href="https://github.com/ThitipongSaysood">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=ThitipongSaysood&repo=ThitipongSaysood&theme=tokyonight&hide_border=true"
-  />
-</a>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+</p>
+
+---
+
+## 🎯 Focus
+
+<p align="center">
+  UI / UX Design • Web Development • Automation • Creative Technology
 </p>
 
 ---
