@@ -102,38 +102,32 @@
 
 ## 📈 Development Metrics
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <h3>📅 Isometric Commit Calendar</h3>
-    </td>
-    <td width="50%" align="center">
-      <h3>🈷️ Languages Activity</h3>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <img
-        src="./metrics-calendar.svg"
-        alt="Isometric Commit Calendar"
-        width="100%"
-      />
-    </td>
-
-    <td width="50%" valign="top">
-      <img
-        src="./metrics-languages.svg"
-        alt="Languages Activity"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ThitipongSaysood">
+    <img
+      src="./metrics-calendar.svg"
+      width="49%"
+      alt="Isometric Commit Calendar"
+    />
+  </a>
+  <a href="https://github.com/ThitipongSaysood">
+    <img
+      src="./metrics-languages.svg"
+      width="49%"
+      alt="Languages Activity"
+    />
+  </a>
+</p>
 
 <p align="center">
-  <i>My development activity & programming language statistics</i>
+  <sub>
+    📅 Isometric Commit Calendar
+    &nbsp;&nbsp; • &nbsp;&nbsp;
+    🈷️ Languages Activity
+  </sub>
 </p>
+
+---
 
 ## 🚀 GitHub Space Shooter
 
