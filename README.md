@@ -27,7 +27,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,ts,python,js,git,vscode,html,react,nextjs,vue,css,tailwind,bootstrap,mysql,postgres,nodejs" />
+  <img
+    src="https://skillicons.dev/icons?i=php,ts,python,js,git,vscode,html,react,nextjs,vue,css,tailwind,bootstrap,mysql,postgres,nodejs"
+    alt="Tech Stack"
+  />
 </p>
 
 ---
@@ -35,7 +38,10 @@
 ## 🎨 Design & Creative Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma" />
+  <img
+    src="https://skillicons.dev/icons?i=ps,ai,ae,pr,figma"
+    alt="Design & Creative Tools"
+  />
 </p>
 
 ---
@@ -43,7 +49,10 @@
 ## 💻 Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,ubuntu,linux,gcp" />
+  <img
+    src="https://skillicons.dev/icons?i=apple,ubuntu,linux,gcp"
+    alt="Platforms"
+  />
 </p>
 
 ---
@@ -52,17 +61,29 @@
 
 <p align="center">
 
-<a href="https://github.com/ThitipongSaysood">
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
-</a>
+  <a href="https://github.com/ThitipongSaysood">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="42"
+      alt="GitHub"
+    />
+  </a>
 
-<a href="https://gitlab.com/ThitipongSaysood">
-  <img src="https://skillicons.dev/icons?i=gitlab" height="42" alt="GitLab" />
-</a>
+  <a href="https://gitlab.com/ThitipongSaysood">
+    <img
+      src="https://skillicons.dev/icons?i=gitlab"
+      height="42"
+      alt="GitLab"
+    />
+  </a>
 
-<a href="https://discord.com/users/sangkazee_13423">
-  <img src="https://skillicons.dev/icons?i=discord" height="42" alt="Discord" />
-</a>
+  <a href="https://discord.com/users/sangkazee_13423">
+    <img
+      src="https://skillicons.dev/icons?i=discord"
+      height="42"
+      alt="Discord"
+    />
+  </a>
 
 </p>
 
@@ -73,8 +94,24 @@
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=ThitipongSaysood&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Thitipong Saysood GitHub Streak"
   />
+</p>
+
+---
+
+## 📈 Development Metrics
+
+<p align="center">
+  <img
+    src="./metrics.svg"
+    alt="Thitipong Saysood Development Metrics"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Isometric commit calendar & programming language activity</i>
 </p>
 
 ---
@@ -119,7 +156,7 @@
 ---
 
 <p align="center">
-  Graphic Design × Development × Technology
+  <b>Graphic Design × Development × Technology</b>
 </p>
 
 <p align="center">
