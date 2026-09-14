@@ -1,1 +1,73 @@
+name: GitHub Metrics
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: ThitipongSaysood
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          filename: metrics.svg
+
+          # ไม่แสดง base header ของ Metrics
+          base: ""
+
+          # เวลาไทย
+          config_timezone: Asia/Bangkok
+
+          # เรียง Isometric Calendar ก่อน Languages
+          config_order: isocalendar, languages
+
+          # ============================================================
+          # 📅 Isometric Commit Calendar
+          # ============================================================
+
+          plugin_isocalendar: yes
+
+          # half-year = ประมาณ 6 เดือน
+          # full-year = เต็มปี
+          plugin_isocalendar_duration: full-year
+
+          # ============================================================
+          # 🈷️ Languages Activity
+          # ============================================================
+
+          plugin_languages: yes
+
+          # แสดง Most Used Languages
+          plugin_languages_sections: most-used
+
+          # วิเคราะห์จาก repository จริงแบบละเอียด
+          plugin_languages_indepth: yes
+
+          # แสดง Lines / Size / Percentage
+          plugin_languages_details: lines, bytes-size, percentage
+
+          # จำนวนภาษาที่แสดง
+          plugin_languages_limit: 8
+
+          # รวมภาษาที่เหลือเป็น Other
+          plugin_languages_other: yes
+
+          # ตัดภาษาที่มีสัดส่วนน้อยมาก
+          plugin_languages_threshold: 0%
+
+          # เวลาสำหรับวิเคราะห์ repository
+          plugin_languages_analysis_timeout: 15
+
+          # ระบุข้อมูลผู้เขียน commit
+          commits_authoring: |
+            ThitipongSaysood
+            arm.thitipong1994@gmail.com
